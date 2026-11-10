@@ -18,9 +18,6 @@ Proyecto de Laboratorio 3 (UBA). Armamos un circuito de Chua y después hice mas
 ![Atractor](gifs/chua_attractor.gif)
 ![Efecto mariposa](gifs/butterfly_effect.gif)
 
-## El circuito
-
-![Esquema del circuito de Chua](img/circuito_chua.svg)
 
 ## Osciloscopio casero
 
@@ -33,6 +30,10 @@ Proyecto de Laboratorio 3 (UBA). Armamos un circuito de Chua y después hice mas
   <img src="img/osciloscopio_pico.jpg" alt="Pico midiendo una cuadrada de 1 kHz" width="49%">
   <img src="gifs/osciloscopio_xy.gif" alt="Atractor en modo XY en el osciloscopio casero" width="49%">
 </p>
+
+## El circuito
+
+![Esquema del circuito de Chua](img/circuito_chua.svg)
 
 ## Carpetas
 
