@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="900" height="720" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="900" height="720" fill="#ffffff" rx="14"/>
+<text x="40" y="42" font-size="22" text-anchor="start" fill="#1f2933" font-weight="bold">Circuito de Chua</text>
+<text x="40" y="64" font-size="13" text-anchor="start" fill="#6b7280" font-weight="normal">L y N_R se arman con amplificadores operacionales (abajo)</text>
+<polyline points="230,110 360,110" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="560,110 700,110" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="360,110 442.0,110.0 445.0,117.0 451.0,103.0 457.0,117.0 463.0,103.0 469.0,117.0 475.0,103.0 478.0,110.0 560,110" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="444.0" y1="126.0" x2="476.0" y2="94.0" stroke="#c2410c" stroke-width="2" marker-end="url(#arr)"/>
+<text x="460.0" y="96.0" font-size="14" text-anchor="middle" fill="#1f2933" font-weight="bold">R</text>
+<text x="460.0" y="134.0" font-size="12" text-anchor="middle" fill="#6b7280" font-weight="normal">pote 2 kΩ</text>
+<polyline points="230,270 700,270" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="230,110 230,158.0" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M230,158.0 a8,8 0 0 1 0,16 a8,8 0 0 1 0,16 a8,8 0 0 1 0,16 a8,8 0 0 1 0,16" fill="none" stroke="#1f2933" stroke-width="2"/>
+<polyline points="230,222.0 230,270" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="212" y="188.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">L</text>
+<text x="212" y="204.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">≈ 18 mH (girador)</text>
+<polyline points="360,110 360,185.0" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="360,195.0 360,270" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="346" y1="185.0" x2="374" y2="185.0" stroke="#1f2933" stroke-width="3"/>
+<line x1="346" y1="195.0" x2="374" y2="195.0" stroke="#1f2933" stroke-width="3"/>
+<text x="382" y="188.0" font-size="14" text-anchor="start" fill="#1f2933" font-weight="bold">C₂</text>
+<text x="382" y="204.0" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">100 nF</text>
+<polyline points="560,110 560,185.0" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="560,195.0 560,270" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="546" y1="185.0" x2="574" y2="185.0" stroke="#1f2933" stroke-width="3"/>
+<line x1="546" y1="195.0" x2="574" y2="195.0" stroke="#1f2933" stroke-width="3"/>
+<text x="538" y="188.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">C₁</text>
+<text x="538" y="204.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">10 nF</text>
+<rect x="674" y="156.0" width="52" height="68" fill="#fff7ed" stroke="#1f2933" stroke-width="2" rx="4"/>
+<polyline points="700,110 700,156.0" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="700,224.0 700,270" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="686,210.0 694,196.0 706,184.0 714,170.0" fill="none" stroke="#c2410c" stroke-width="2.5"/>
+<text x="736" y="188.0" font-size="14" text-anchor="start" fill="#1f2933" font-weight="bold">N_R</text>
+<text x="736" y="204.0" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">diodo de Chua</text>
+<circle cx="360" cy="110" r="4" fill="#1f2933"/>
+<circle cx="360" cy="270" r="4" fill="#1f2933"/>
+<circle cx="560" cy="110" r="4" fill="#1f2933"/>
+<circle cx="560" cy="270" r="4" fill="#1f2933"/>
+<circle cx="230" cy="110" r="4" fill="#1f2933"/>
+<polyline points="460.0,270 460.0,278" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="446.0" y1="278" x2="474.0" y2="278" stroke="#1f2933" stroke-width="2"/>
+<line x1="451.0" y1="283" x2="469.0" y2="283" stroke="#1f2933" stroke-width="2"/>
+<line x1="456.0" y1="288" x2="464.0" y2="288" stroke="#1f2933" stroke-width="2"/>
+<text x="354" y="98" font-size="13" text-anchor="end" fill="#c2410c" font-weight="normal" font-style="italic">v_C2</text>
+<text x="566" y="98" font-size="13" text-anchor="start" fill="#c2410c" font-weight="normal" font-style="italic">v_C1</text>
+<line x1="246" y1="140" x2="246" y2="170" stroke="#c2410c" stroke-width="2" marker-end="url(#arr)"/>
+<text x="254" y="160" font-size="13" text-anchor="start" fill="#c2410c" font-weight="normal" font-style="italic">i_L</text>
+<line x1="30" y1="330" x2="870" y2="330" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="40" y="370" font-size="17" text-anchor="start" fill="#1f2933" font-weight="bold">Diodo de Chua</text>
+<text x="40" y="390" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">TL082 (dos operacionales), configuración de Kennedy</text>
+<polyline points="60,430 440,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="445" y="435" font-size="13" text-anchor="start" fill="#c2410c" font-weight="normal" font-style="italic">→ v_C1</text>
+<polygon points="190,510 120,478.0 120,542.0" fill="#f8fafc" stroke="#1f2933" stroke-width="2" stroke-linejoin="round"/>
+<text x="130" y="503" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">+</text>
+<text x="130" y="527" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">−</text>
+<text x="147.0" y="558.0" font-size="11" text-anchor="middle" fill="#6b7280" font-weight="normal">TL082 A</text>
+<polyline points="120,498 90,498 90,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90" cy="430" r="4" fill="#1f2933"/>
+<polyline points="190,510 230,510" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="230" cy="510" r="4" fill="#1f2933"/>
+<polyline points="230,510 230.0,488.0 237.0,485.0 223.0,479.0 237.0,473.0 223.0,467.0 237.0,461.0 223.0,455.0 230.0,452.0 230,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="244.0" y="468.0" font-size="14" text-anchor="start" fill="#1f2933" font-weight="bold">R1</text>
+<text x="244.0" y="484.0" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">220 Ω</text>
+<circle cx="230" cy="430" r="4" fill="#1f2933"/>
+<polyline points="120,522 105,522 105,590" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="105" cy="590" r="4" fill="#1f2933"/>
+<polyline points="105,590 149.5,590.0 152.5,597.0 158.5,583.0 164.5,597.0 170.5,583.0 176.5,597.0 182.5,583.0 185.5,590.0 230,590" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="167.5" y="576.0" font-size="14" text-anchor="middle" fill="#1f2933" font-weight="bold">R2</text>
+<text x="167.5" y="614.0" font-size="12" text-anchor="middle" fill="#6b7280" font-weight="normal">220 Ω</text>
+<polyline points="230,590 230,510" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="105,590 105.0,607.0 98.0,610.0 112.0,616.0 98.0,622.0 112.0,628.0 98.0,634.0 112.0,640.0 105.0,643.0 105,660" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="91.0" y="623.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R3</text>
+<text x="91.0" y="639.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">2.2 kΩ</text>
+<polyline points="105,660 105,668" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="91" y1="668" x2="119" y2="668" stroke="#1f2933" stroke-width="2"/>
+<line x1="96" y1="673" x2="114" y2="673" stroke="#1f2933" stroke-width="2"/>
+<line x1="101" y1="678" x2="109" y2="678" stroke="#1f2933" stroke-width="2"/>
+<polygon points="380,510 310,478.0 310,542.0" fill="#f8fafc" stroke="#1f2933" stroke-width="2" stroke-linejoin="round"/>
+<text x="320" y="503" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">+</text>
+<text x="320" y="527" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">−</text>
+<text x="337.0" y="558.0" font-size="11" text-anchor="middle" fill="#6b7280" font-weight="normal">TL082 B</text>
+<polyline points="310,498 280,498 280,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="280" cy="430" r="4" fill="#1f2933"/>
+<polyline points="380,510 420,510" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="420" cy="510" r="4" fill="#1f2933"/>
+<polyline points="420,510 420.0,488.0 427.0,485.0 413.0,479.0 427.0,473.0 413.0,467.0 427.0,461.0 413.0,455.0 420.0,452.0 420,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="434.0" y="468.0" font-size="14" text-anchor="start" fill="#1f2933" font-weight="bold">R4</text>
+<text x="434.0" y="484.0" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">22 kΩ</text>
+<circle cx="420" cy="430" r="4" fill="#1f2933"/>
+<polyline points="310,522 295,522 295,590" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="295" cy="590" r="4" fill="#1f2933"/>
+<polyline points="295,590 339.5,590.0 342.5,597.0 348.5,583.0 354.5,597.0 360.5,583.0 366.5,597.0 372.5,583.0 375.5,590.0 420,590" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="357.5" y="576.0" font-size="14" text-anchor="middle" fill="#1f2933" font-weight="bold">R5</text>
+<text x="357.5" y="614.0" font-size="12" text-anchor="middle" fill="#6b7280" font-weight="normal">22 kΩ</text>
+<polyline points="420,590 420,510" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="295,590 295.0,607.0 288.0,610.0 302.0,616.0 288.0,622.0 302.0,628.0 288.0,634.0 302.0,640.0 295.0,643.0 295,660" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="281.0" y="623.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R6</text>
+<text x="281.0" y="639.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">3.3 kΩ</text>
+<polyline points="295,660 295,668" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="281" y1="668" x2="309" y2="668" stroke="#1f2933" stroke-width="2"/>
+<line x1="286" y1="673" x2="304" y2="673" stroke="#1f2933" stroke-width="2"/>
+<line x1="291" y1="678" x2="299" y2="678" stroke="#1f2933" stroke-width="2"/>
+<text x="540" y="370" font-size="17" text-anchor="start" fill="#1f2933" font-weight="bold">Inductor simulado</text>
+<text x="540" y="390" font-size="12" text-anchor="start" fill="#6b7280" font-weight="normal">Girador de Antoniou, TL082 · L = R7·R9·R10·C3 / R8</text>
+<polyline points="650,430 600,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="596" y="435" font-size="13" text-anchor="end" fill="#c2410c" font-weight="normal" font-style="italic">v_C2 ←</text>
+<polyline points="650,430 650.0,437.0 643.0,440.0 657.0,446.0 643.0,452.0 657.0,458.0 643.0,464.0 657.0,470.0 650.0,473.0 650,480" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="636.0" y="453.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R7</text>
+<text x="636.0" y="469.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">100 Ω</text>
+<polyline points="650,480 650.0,487.0 643.0,490.0 657.0,496.0 643.0,502.0 657.0,508.0 643.0,514.0 657.0,520.0 650.0,523.0 650,530" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="636.0" y="503.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R8</text>
+<text x="636.0" y="519.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">1 kΩ</text>
+<polyline points="650,530 650.0,537.0 643.0,540.0 657.0,546.0 643.0,552.0 657.0,558.0 643.0,564.0 657.0,570.0 650.0,573.0 650,580" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="636.0" y="553.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R9</text>
+<text x="636.0" y="569.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">1 kΩ</text>
+<polyline points="650,580 650,600.0" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="650,610.0 650,630" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="636" y1="600.0" x2="664" y2="600.0" stroke="#1f2933" stroke-width="3"/>
+<line x1="636" y1="610.0" x2="664" y2="610.0" stroke="#1f2933" stroke-width="3"/>
+<text x="628" y="603.0" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">C3</text>
+<text x="628" y="619.0" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">100 nF</text>
+<polyline points="650,630 650.0,629.5 643.0,632.5 657.0,638.5 643.0,644.5 657.0,650.5 643.0,656.5 657.0,662.5 650.0,665.5 650,665" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="634.0" y1="663.5" x2="666.0" y2="631.5" stroke="#c2410c" stroke-width="2" marker-end="url(#arr)"/>
+<text x="636.0" y="645.5" font-size="14" text-anchor="end" fill="#1f2933" font-weight="bold">R10</text>
+<text x="636.0" y="661.5" font-size="12" text-anchor="end" fill="#6b7280" font-weight="normal">pote 2 kΩ</text>
+<polyline points="650,665 650,673" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="636" y1="673" x2="664" y2="673" stroke="#1f2933" stroke-width="2"/>
+<line x1="641" y1="678" x2="659" y2="678" stroke="#1f2933" stroke-width="2"/>
+<line x1="646" y1="683" x2="654" y2="683" stroke="#1f2933" stroke-width="2"/>
+<circle cx="650" cy="430" r="4" fill="#1f2933"/>
+<circle cx="650" cy="480" r="4" fill="#1f2933"/>
+<circle cx="650" cy="530" r="4" fill="#1f2933"/>
+<circle cx="650" cy="580" r="4" fill="#1f2933"/>
+<circle cx="650" cy="630" r="4" fill="#1f2933"/>
+<polygon points="750,480 814,452.0 814,508.0" fill="#f8fafc" stroke="#1f2933" stroke-width="2" stroke-linejoin="round"/>
+<text x="804" y="473" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">+</text>
+<text x="804" y="497" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">−</text>
+<polyline points="650,480 750,480" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="814,468 839,468 839,430 650,430" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="814,492 859,492 859,530 650,530" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="750,580 814,552.0 814,608.0" fill="#f8fafc" stroke="#1f2933" stroke-width="2" stroke-linejoin="round"/>
+<text x="804" y="573" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">−</text>
+<text x="804" y="597" font-size="15" text-anchor="middle" fill="#1f2933" font-weight="bold">+</text>
+<polyline points="650,580 750,580" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="814,568 859,568 859,530" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="859" cy="530" r="4" fill="#1f2933"/>
+<polyline points="814,592 839,592 839,630 650,630" fill="none" stroke="#1f2933" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="782" y="485" font-size="12" text-anchor="middle" fill="#6b7280" font-weight="normal">A</text>
+<text x="782" y="585" font-size="12" text-anchor="middle" fill="#6b7280" font-weight="normal">B</text>
+<text x="870" y="706" font-size="11" text-anchor="end" fill="#6b7280" font-weight="normal">Valores de referencia (Kennedy 1992; Torres y Aguirre 2000)</text>
+</svg>
